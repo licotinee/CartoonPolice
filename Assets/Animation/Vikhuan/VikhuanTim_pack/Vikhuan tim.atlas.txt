@@ -1,0 +1,208 @@
+
+Vikhuan tim.png
+size: 4010,3612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 778, 3487
+  size: 123, 295
+  orig: 123, 295
+  offset: 0, 0
+  index: -1
+Bong
+  rotate: false
+  xy: 2, 3580
+  size: 140, 30
+  orig: 140, 30
+  offset: 0, 0
+  index: -1
+Chanphai
+  rotate: true
+  xy: 293, 3566
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+Chantrai
+  rotate: true
+  xy: 144, 3568
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00001
+  rotate: false
+  xy: 1075, 2890
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00002
+  rotate: false
+  xy: 2357, 2890
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00003
+  rotate: true
+  xy: 2, 2251
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00004
+  rotate: false
+  xy: 724, 2168
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00005
+  rotate: false
+  xy: 2006, 2168
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00006
+  rotate: true
+  xy: 3288, 1608
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00001
+  rotate: false
+  xy: 2, 1446
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00002
+  rotate: false
+  xy: 1284, 1446
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00003
+  rotate: false
+  xy: 2566, 886
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00004
+  rotate: false
+  xy: 2, 724
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00005
+  rotate: false
+  xy: 1284, 724
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00006
+  rotate: false
+  xy: 2566, 164
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+MomMeu/Mommeu_00001
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+MomMeu/Mommeu_00002
+  rotate: false
+  xy: 1284, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Sungphai
+  rotate: true
+  xy: 222, 3568
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+Sungtrai
+  rotate: true
+  xy: 371, 3566
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+Tayphaiduoi
+  rotate: false
+  xy: 528, 3536
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+Tayphaitren
+  rotate: false
+  xy: 611, 3534
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+Taytraiduoi
+  rotate: false
+  xy: 694, 3533
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+Taytraitren
+  rotate: false
+  xy: 448, 3537
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+
+Vikhuan tim2.png
+size: 2890,1284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MomMeu/Mommeu_00003
+  rotate: true
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+MomMeu/Mommeu_00004
+  rotate: true
+  xy: 724, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+MomMeu/Mommeu_00005
+  rotate: true
+  xy: 1446, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+MomMeu/Mommeu_00006
+  rotate: true
+  xy: 2168, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1

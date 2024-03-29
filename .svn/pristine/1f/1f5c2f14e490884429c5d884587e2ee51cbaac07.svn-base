@@ -1,0 +1,782 @@
+
+xe.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Captain/Bánh
+  rotate: false
+  xy: 3125, 3558
+  size: 272, 271
+  orig: 272, 271
+  offset: 0, 0
+  index: -1
+Captain/Thân xe Captian
+  rotate: false
+  xy: 0, 2144
+  size: 764, 479
+  orig: 764, 479
+  offset: 0, 0
+  index: -1
+Enemy 2/Bánh xe
+  rotate: false
+  xy: 822, 3405
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+EnemyOrange/Bánh xe
+  rotate: false
+  xy: 822, 3405
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Enemy 2/Xe địch BS 2
+  rotate: false
+  xy: 2306, 2902
+  size: 744, 380
+  orig: 744, 380
+  offset: 0, 0
+  index: -1
+Enemy 3/Bánh xe
+  rotate: false
+  xy: 1096, 3405
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Enemy 3/Thân
+  rotate: false
+  xy: 2775, 2428
+  size: 814, 456
+  orig: 814, 456
+  offset: 0, 0
+  index: -1
+Enemy 4/Thân
+  rotate: false
+  xy: 1928, 2471
+  size: 845, 429
+  orig: 845, 429
+  offset: 0, 0
+  index: -1
+Enemy 5/Bánh xe
+  rotate: false
+  xy: 1370, 3405
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Enemy 5/Thân
+  rotate: false
+  xy: 3052, 2886
+  size: 781, 388
+  orig: 781, 388
+  offset: 0, 0
+  index: -1
+Enemy1/Bánh xe
+  rotate: false
+  xy: 548, 3405
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Enemy1/Xe ta vàng
+  rotate: false
+  xy: 0, 2644
+  size: 746, 398
+  orig: 746, 398
+  offset: 0, 0
+  index: -1
+EnemyBlack/EyeBlack
+  rotate: false
+  xy: 54, 3963
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Shark/EyeBlack
+  rotate: false
+  xy: 54, 3963
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Yellow/EyeBlack
+  rotate: false
+  xy: 54, 3963
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengcuoi/miengxe_00001
+  rotate: false
+  xy: 297, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengnherang/miengxe_00001
+  rotate: false
+  xy: 297, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/mieng/miengxe_00001
+  rotate: false
+  xy: 297, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengcuoi/miengxe_00002
+  rotate: false
+  xy: 449, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengcuoi/miengxe_00003
+  rotate: false
+  xy: 601, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengcuoi/miengxe_00004
+  rotate: false
+  xy: 753, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengcuoi/miengxe_00005
+  rotate: false
+  xy: 905, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengcuoi/miengxe_00007
+  rotate: false
+  xy: 1057, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengcuoi/miengxe_00008
+  rotate: false
+  xy: 1209, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengnherang/miengxe_00002
+  rotate: false
+  xy: 2577, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengnherang/miengxe_00003
+  rotate: false
+  xy: 2881, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengnherang/miengxe_00004
+  rotate: false
+  xy: 3185, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengnherang/miengxe_00005
+  rotate: false
+  xy: 3489, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengnherang/miengxe_00006
+  rotate: false
+  xy: 3793, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengnherang/miengxe_00007
+  rotate: false
+  xy: 0, 3798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Miengnherang/miengxe_00008
+  rotate: false
+  xy: 304, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/Wheel
+  rotate: false
+  xy: 1644, 3405
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+EnemyBlack/Xe đen
+  rotate: false
+  xy: 766, 2071
+  size: 760, 496
+  orig: 760, 496
+  offset: 0, 0
+  index: -1
+EnemyBlack/mieng/miengxe_00002
+  rotate: false
+  xy: 608, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/mieng/miengxe_00003
+  rotate: false
+  xy: 912, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/mieng/miengxe_00004
+  rotate: false
+  xy: 1216, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/mieng/miengxe_00005
+  rotate: false
+  xy: 1520, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/mieng/miengxe_00006
+  rotate: false
+  xy: 1824, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/mieng/miengxe_00007
+  rotate: false
+  xy: 2128, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlack/mieng/miengxe_00008
+  rotate: false
+  xy: 2432, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EnemyBlue/Bánh xe
+  rotate: false
+  xy: 1918, 3405
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+EnemyBlue/Xe
+  rotate: false
+  xy: 1528, 1973
+  size: 760, 496
+  orig: 760, 496
+  offset: 0, 0
+  index: -1
+EnemyGreen/Wheel_2
+  rotate: false
+  xy: 2192, 3405
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+EnemyGreen/Xe
+  rotate: false
+  xy: 2290, 1930
+  size: 760, 496
+  orig: 760, 496
+  offset: 0, 0
+  index: -1
+EnemyOrange/Xe cam
+  rotate: false
+  xy: 0, 1646
+  size: 760, 496
+  orig: 760, 496
+  offset: 0, 0
+  index: -1
+EnemyPurple/Bánh xe
+  rotate: false
+  xy: 2466, 3290
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+EnemyPurpleOrange/Bánh xe
+  rotate: false
+  xy: 2466, 3290
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+EnemyPurple/xe
+  rotate: false
+  xy: 762, 977
+  size: 848, 496
+  orig: 848, 496
+  offset: 0, 0
+  index: -1
+EnemyPurpleOrange/xe
+  rotate: false
+  xy: 2462, 910
+  size: 892, 520
+  orig: 892, 520
+  offset: 0, 0
+  index: -1
+EnemyRed/Bánh xe
+  rotate: false
+  xy: 2740, 3284
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+EnemyRed/Xe đỏ
+  rotate: false
+  xy: 762, 1573
+  size: 760, 496
+  orig: 760, 496
+  offset: 0, 0
+  index: -1
+EnenmyBat/Bánh xe
+  rotate: false
+  xy: 3014, 3284
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+EnenmyBat/xe
+  rotate: true
+  xy: 3356, 468
+  size: 892, 520
+  orig: 892, 520
+  offset: 0, 0
+  index: -1
+Ironman/Bánh xe
+  rotate: false
+  xy: 2851, 3558
+  size: 272, 271
+  orig: 272, 271
+  offset: 0, 0
+  index: -1
+Ironman/Thân xe iron man
+  rotate: false
+  xy: 1105, 3027
+  size: 801, 376
+  orig: 801, 376
+  offset: 0, 0
+  index: -1
+Police/Bánh xe
+  rotate: false
+  xy: 274, 3405
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Shark/Bánh xe cá mập
+  rotate: false
+  xy: 274, 3405
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Police/Xe
+  rotate: false
+  xy: 1524, 1475
+  size: 760, 496
+  orig: 760, 496
+  offset: 0, 0
+  index: -1
+Pumpkin/Bánh xe
+  rotate: false
+  xy: 3288, 3284
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Pumpkin/Thân
+  rotate: false
+  xy: 1612, 934
+  size: 848, 496
+  orig: 848, 496
+  offset: 0, 0
+  index: -1
+Rainbow/Bánh xe
+  rotate: false
+  xy: 3562, 3276
+  size: 280, 279
+  orig: 280, 279
+  offset: 0, 0
+  index: -1
+Rainbow/Thân xe ta cầu vồng
+  rotate: true
+  xy: 3052, 1703
+  size: 723, 529
+  orig: 723, 529
+  offset: 0, 0
+  index: -1
+Red/Bánh xe
+  rotate: false
+  xy: 0, 3405
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Red/Xe đỏ
+  rotate: false
+  xy: 2286, 1432
+  size: 760, 496
+  orig: 760, 496
+  offset: 0, 0
+  index: -1
+Shark/EyeBrow
+  rotate: false
+  xy: 0, 3964
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+Shark/EyeWhite
+  rotate: true
+  xy: 244, 3932
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Shark/Layer 5
+  rotate: false
+  xy: 132, 3950
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+Shark/Xe cá mập
+  rotate: true
+  xy: 3583, 1362
+  size: 760, 496
+  orig: 760, 496
+  offset: 0, 0
+  index: -1
+Superman/Bánh
+  rotate: false
+  xy: 3399, 3558
+  size: 272, 271
+  orig: 272, 271
+  offset: 0, 0
+  index: -1
+Superman/Thân xe siêu nhân
+  rotate: false
+  xy: 748, 2625
+  size: 740, 400
+  orig: 740, 400
+  offset: 0, 0
+  index: -1
+Thor/Bánh xe
+  rotate: false
+  xy: 2584, 3564
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+Thor/Thân Xe Thor
+  rotate: false
+  xy: 346, 3044
+  size: 757, 359
+  orig: 757, 359
+  offset: 0, 0
+  index: -1
+Xe 1/banh xe 1
+  rotate: false
+  xy: 1490, 2569
+  size: 436, 436
+  orig: 436, 436
+  offset: 0, 0
+  index: -1
+Xe 1/banh xe 2
+  rotate: false
+  xy: 1490, 2569
+  size: 436, 436
+  orig: 436, 436
+  offset: 0, 0
+  index: -1
+Xe 2/banh xe 1
+  rotate: false
+  xy: 1908, 3007
+  size: 396, 396
+  orig: 396, 396
+  offset: 0, 0
+  index: -1
+Xe 2/xe 2
+  rotate: false
+  xy: 1334, 0
+  size: 1984, 908
+  orig: 1984, 908
+  offset: 0, 0
+  index: -1
+Xe 3/banh xe 1
+  rotate: false
+  xy: 0, 3059
+  size: 344, 344
+  orig: 344, 344
+  offset: 0, 0
+  index: -1
+Xe 3/xe 3
+  rotate: false
+  xy: 0, 151
+  size: 1332, 824
+  orig: 1332, 824
+  offset: 0, 0
+  index: -1
+Yellow/Bánh xe
+  rotate: false
+  xy: 3673, 3557
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+Yellow/Car_Shadow
+  rotate: true
+  xy: 3591, 2124
+  size: 760, 496
+  orig: 760, 496
+  offset: 0, 0
+  index: -1
+EnemyBlack/Car_Shadow
+  rotate: true
+  xy: 3591, 2124
+  size: 760, 496
+  orig: 760, 496
+  offset: 0, 0
+  index: -1
+Yellow/EyeBrow
+  rotate: false
+  xy: 74, 3951
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+EnemyBlack/EyeBrow
+  rotate: false
+  xy: 74, 3951
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+Yellow/EyeWhite
+  rotate: true
+  xy: 185, 3932
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+EnemyBlack/EyeWhite
+  rotate: true
+  xy: 185, 3932
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+Yellow/Miengcuoi/miengxe_00001
+  rotate: false
+  xy: 1361, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengnherang/miengxe_00001
+  rotate: false
+  xy: 1361, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/mieng/miengxe_00001
+  rotate: false
+  xy: 1361, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengcuoi/miengxe_00002
+  rotate: false
+  xy: 1513, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengcuoi/miengxe_00003
+  rotate: false
+  xy: 1665, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengcuoi/miengxe_00004
+  rotate: false
+  xy: 1817, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengcuoi/miengxe_00005
+  rotate: false
+  xy: 1969, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengcuoi/miengxe_00007
+  rotate: false
+  xy: 2121, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengcuoi/miengxe_00008
+  rotate: false
+  xy: 2273, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengnherang/miengxe_00002
+  rotate: false
+  xy: 2425, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengnherang/miengxe_00003
+  rotate: false
+  xy: 2729, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengnherang/miengxe_00004
+  rotate: false
+  xy: 3033, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengnherang/miengxe_00005
+  rotate: false
+  xy: 3337, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengnherang/miengxe_00006
+  rotate: false
+  xy: 3641, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengnherang/miengxe_00007
+  rotate: false
+  xy: 3945, 3831
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Miengnherang/miengxe_00008
+  rotate: false
+  xy: 152, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/Xe ta vàng
+  rotate: false
+  xy: 0, 1148
+  size: 760, 496
+  orig: 760, 496
+  offset: 0, 0
+  index: -1
+Yellow/mieng/miengxe_00002
+  rotate: false
+  xy: 456, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/mieng/miengxe_00003
+  rotate: false
+  xy: 760, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/mieng/miengxe_00004
+  rotate: false
+  xy: 1064, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/mieng/miengxe_00005
+  rotate: false
+  xy: 1368, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/mieng/miengxe_00006
+  rotate: false
+  xy: 1672, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/mieng/miengxe_00007
+  rotate: false
+  xy: 1976, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Yellow/mieng/miengxe_00008
+  rotate: false
+  xy: 2280, 3679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+
+xe2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Xe 1/xe 1
+  rotate: false
+  xy: 0, 0
+  size: 1888, 984
+  orig: 1888, 984
+  offset: 0, 0
+  index: -1

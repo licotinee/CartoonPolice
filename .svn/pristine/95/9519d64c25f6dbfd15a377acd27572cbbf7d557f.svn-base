@@ -1,0 +1,214 @@
+
+vikhuanchua.png
+size: 4016,3880
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 148
+  size: 143, 149
+  orig: 143, 149
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 320, 443
+  size: 101, 189
+  orig: 101, 189
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 3846, 3499
+  size: 91, 198
+  orig: 91, 198
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 3846, 3699
+  size: 131, 179
+  orig: 131, 179
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 299
+  size: 316, 333
+  orig: 316, 333
+  offset: 0, 0
+  index: -1
+Bong
+  rotate: true
+  xy: 3979, 3706
+  size: 172, 35
+  orig: 172, 35
+  offset: 0, 0
+  index: -1
+Chan_Phai
+  rotate: false
+  xy: 147, 154
+  size: 51, 143
+  orig: 51, 143
+  offset: 0, 0
+  index: -1
+Chan_trai
+  rotate: false
+  xy: 2, 2
+  size: 51, 144
+  orig: 51, 144
+  offset: 0, 0
+  index: -1
+Mat/Mat_00001
+  rotate: false
+  xy: 2, 2798
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00002
+  rotate: false
+  xy: 2, 1716
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00003
+  rotate: false
+  xy: 1924, 2798
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00004
+  rotate: false
+  xy: 2, 634
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00005
+  rotate: false
+  xy: 1924, 1716
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00006
+  rotate: false
+  xy: 1924, 634
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Tay_phai
+  rotate: false
+  xy: 423, 505
+  size: 40, 127
+  orig: 40, 127
+  offset: 0, 0
+  index: -1
+Tay_trai
+  rotate: false
+  xy: 320, 314
+  size: 51, 127
+  orig: 51, 127
+  offset: 0, 0
+  index: -1
+
+vikhuanchua2.png
+size: 3846,3248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mieng_cuoi/Cuoi_00001
+  rotate: false
+  xy: 2, 2166
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Cuoi_00002
+  rotate: false
+  xy: 2, 1084
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Cuoi_00003
+  rotate: false
+  xy: 1924, 2166
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Cuoi_00004
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Cuoi_00005
+  rotate: false
+  xy: 1924, 1084
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Cuoi_00006
+  rotate: false
+  xy: 1924, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+vikhuanchua3.png
+size: 3846,3248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mieng_meu/Miengmeu_1_00001
+  rotate: false
+  xy: 2, 2166
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_meu/Miengmeu_1_00002
+  rotate: false
+  xy: 2, 1084
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_meu/Miengmeu_1_00003
+  rotate: false
+  xy: 1924, 2166
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_meu/Miengmeu_1_00004
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_meu/Miengmeu_1_00005
+  rotate: false
+  xy: 1924, 1084
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_meu/Miengmeu_1_00006
+  rotate: false
+  xy: 1924, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1

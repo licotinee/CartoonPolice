@@ -1,0 +1,228 @@
+
+Vikhuan2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 0, 234
+  size: 264, 265
+  orig: 264, 265
+  offset: 0, 0
+  index: -1
+Bong
+  rotate: true
+  xy: 3844, 3489
+  size: 256, 52
+  orig: 256, 52
+  offset: 0, 0
+  index: -1
+Chan_phai
+  rotate: false
+  xy: 3844, 3382
+  size: 40, 105
+  orig: 40, 105
+  offset: 0, 0
+  index: -1
+Chan_trai
+  rotate: false
+  xy: 0, 0
+  size: 45, 95
+  orig: 45, 95
+  offset: 0, 0
+  index: -1
+Mat/Mat_00001
+  rotate: false
+  xy: 0, 2665
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00002
+  rotate: false
+  xy: 0, 1583
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00003
+  rotate: false
+  xy: 1922, 2665
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00004
+  rotate: false
+  xy: 0, 501
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00005
+  rotate: false
+  xy: 1922, 1583
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00006
+  rotate: false
+  xy: 1922, 501
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Rau1
+  rotate: false
+  xy: 3898, 3621
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+Rau2
+  rotate: false
+  xy: 266, 378
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+Rau3
+  rotate: false
+  xy: 3898, 3669
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+Rau4
+  rotate: false
+  xy: 104, 143
+  size: 49, 89
+  orig: 49, 89
+  offset: 0, 0
+  index: -1
+Rau5
+  rotate: false
+  xy: 388, 445
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+Rau6
+  rotate: false
+  xy: 3972, 3709
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+Tay_phai
+  rotate: false
+  xy: 0, 97
+  size: 102, 135
+  orig: 102, 135
+  offset: 0, 0
+  index: -1
+Tay_trai
+  rotate: false
+  xy: 266, 424
+  size: 120, 75
+  orig: 120, 75
+  offset: 0, 0
+  index: -1
+
+Vikhuan22.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mieng_cuoi/Mieng_cuoi_00001
+  rotate: false
+  xy: 0, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Mieng_cuoi_00002
+  rotate: false
+  xy: 0, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Mieng_cuoi_00003
+  rotate: false
+  xy: 1922, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Mieng_cuoi_00004
+  rotate: false
+  xy: 0, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Mieng_cuoi_00005
+  rotate: false
+  xy: 1922, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Mieng_cuoi_00006
+  rotate: false
+  xy: 1922, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+Vikhuan23.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mieng_khoc/Mieng_khoc_00001
+  rotate: false
+  xy: 0, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00002
+  rotate: false
+  xy: 0, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00003
+  rotate: false
+  xy: 1922, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00004
+  rotate: false
+  xy: 0, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00005
+  rotate: false
+  xy: 1922, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00006
+  rotate: false
+  xy: 1922, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obsacle
+  - Car
+  - WheelCar
+  - TuiSao
+  - Bullet
+  - Toy
+  - CarChased
+  - PoliceCarChase
+  - Cano
+  - Pit
+  - Buff
+  - Banned
+  - LimitScene
+  - Police
+  - Criminal
+  - LimitShoot
+  - BossShoot
+  - CarPolice
+  - CarBoss
+  - LimitCarBoss
+  - Bubble
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - SoapBall
+  - Water
+  - UI
+  - Ground
+  - Obsacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tutorial
+    uniqueID: 2332350975
+    locked: 0

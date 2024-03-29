@@ -1,0 +1,303 @@
+
+Vikhuan1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 3844, 3305
+  size: 242, 236
+  orig: 242, 236
+  offset: 0, 0
+  index: -1
+Bong
+  rotate: false
+  xy: 0, 255
+  size: 221, 40
+  orig: 221, 40
+  offset: 0, 0
+  index: -1
+Chan_phai
+  rotate: false
+  xy: 3844, 2973
+  size: 53, 98
+  orig: 53, 98
+  offset: 0, 0
+  index: -1
+Chan_trai
+  rotate: false
+  xy: 3939, 3113
+  size: 52, 97
+  orig: 52, 97
+  offset: 0, 0
+  index: -1
+Duoi
+  rotate: false
+  xy: 3844, 3212
+  size: 168, 91
+  orig: 168, 91
+  offset: 0, 0
+  index: -1
+Mat/Mat_00001
+  rotate: false
+  xy: 0, 2461
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00002
+  rotate: false
+  xy: 0, 1379
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00003
+  rotate: false
+  xy: 1922, 2461
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00004
+  rotate: false
+  xy: 0, 297
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00005
+  rotate: false
+  xy: 1922, 1379
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00006
+  rotate: false
+  xy: 1922, 297
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Tai_phai
+  rotate: false
+  xy: 80, 160
+  size: 59, 93
+  orig: 59, 93
+  offset: 0, 0
+  index: -1
+Tai_trai
+  rotate: false
+  xy: 0, 0
+  size: 59, 99
+  orig: 59, 99
+  offset: 0, 0
+  index: -1
+Tay_phai
+  rotate: false
+  xy: 0, 101
+  size: 78, 152
+  orig: 78, 152
+  offset: 0, 0
+  index: -1
+Tay_trai
+  rotate: false
+  xy: 3844, 3073
+  size: 93, 137
+  orig: 93, 137
+  offset: 0, 0
+  index: -1
+
+Vikhuan12.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mat_buon/Mat_buon_00001
+  rotate: false
+  xy: 0, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat_buon/Mat_buon_00002
+  rotate: false
+  xy: 0, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat_buon/Mat_buon_00003
+  rotate: false
+  xy: 1922, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat_buon/Mat_buon_00004
+  rotate: false
+  xy: 0, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat_buon/Mat_buon_00005
+  rotate: false
+  xy: 1922, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat_buon/Mat_buon_00006
+  rotate: false
+  xy: 1922, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+Vikhuan13.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mieng_khoc/Mieng_khoc_00001
+  rotate: false
+  xy: 0, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00002
+  rotate: false
+  xy: 0, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00003
+  rotate: false
+  xy: 1922, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00004
+  rotate: false
+  xy: 0, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00005
+  rotate: false
+  xy: 1922, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00006
+  rotate: false
+  xy: 1922, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+Vikhuan14.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Miengcuoi/Mieng_cuoi_00001
+  rotate: false
+  xy: 0, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Miengcuoi/Mieng_cuoi_00002
+  rotate: false
+  xy: 0, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Miengcuoi/Mieng_cuoi_00003
+  rotate: false
+  xy: 1922, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Miengcuoi/Mieng_cuoi_00004
+  rotate: false
+  xy: 0, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Miengcuoi/Mieng_cuoi_00005
+  rotate: false
+  xy: 1922, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Miengcuoi/Mieng_cuoi_00006
+  rotate: false
+  xy: 1922, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+Vikhuan15.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nuoc_mat/nuocmat_00003
+  rotate: false
+  xy: 0, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Nuoc_mat/nuocmat_00004
+  rotate: false
+  xy: 0, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Nuoc_mat/nuocmat_00005
+  rotate: false
+  xy: 1922, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Nuoc_mat/nuocmat_00006
+  rotate: false
+  xy: 0, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Nuoc_mat/nuocmat_00007
+  rotate: false
+  xy: 1922, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Nuoc_mat/nuocmat_00008
+  rotate: false
+  xy: 1922, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1

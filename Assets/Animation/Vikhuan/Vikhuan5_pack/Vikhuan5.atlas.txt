@@ -1,0 +1,186 @@
+
+Vikhuan5.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 771, 2973
+  size: 271, 393
+  orig: 271, 393
+  offset: 0, 0
+  index: -1
+Bong
+  rotate: false
+  xy: 279, 3211
+  size: 252, 33
+  orig: 252, 33
+  offset: 0, 0
+  index: -1
+Chan_phai
+  rotate: true
+  xy: 533, 3193
+  size: 51, 117
+  orig: 51, 117
+  offset: 0, 0
+  index: -1
+Chan_trai
+  rotate: true
+  xy: 652, 3193
+  size: 51, 117
+  orig: 51, 117
+  offset: 0, 0
+  index: -1
+Mat/Mat_00001
+  rotate: false
+  xy: 1166, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00002
+  rotate: false
+  xy: 0, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00003
+  rotate: false
+  xy: 1922, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00004
+  rotate: false
+  xy: 0, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mat/Mat_00005
+  rotate: false
+  xy: 1922, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Tay_phai
+  rotate: false
+  xy: 0, 3212
+  size: 138, 32
+  orig: 138, 32
+  offset: 0, 0
+  index: -1
+Tay_trai
+  rotate: true
+  xy: 140, 3212
+  size: 32, 137
+  orig: 32, 137
+  offset: 0, 0
+  index: -1
+
+Vikhuan52.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mat/Mat_00006
+  rotate: false
+  xy: 0, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Mieng_cuoi_00001
+  rotate: false
+  xy: 0, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Mieng_cuoi_00002
+  rotate: false
+  xy: 1922, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Mieng_cuoi_00003
+  rotate: false
+  xy: 0, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Mieng_cuoi_00004
+  rotate: false
+  xy: 1922, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_cuoi/Mieng_cuoi_00005
+  rotate: false
+  xy: 1922, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+Vikhuan53.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mieng_cuoi/Mieng_cuoi_00006
+  rotate: false
+  xy: 0, 3004
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00001
+  rotate: false
+  xy: 1922, 3004
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00002
+  rotate: true
+  xy: 0, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00003
+  rotate: false
+  xy: 0, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00004
+  rotate: true
+  xy: 1082, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00005
+  rotate: false
+  xy: 1922, 0
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+Mieng_khoc/Mieng_khoc_00006
+  rotate: true
+  xy: 2164, 1082
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1

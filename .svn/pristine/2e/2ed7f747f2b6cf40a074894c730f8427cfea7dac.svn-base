@@ -1,0 +1,13 @@
+
+nuoc1.png
+size: 494,36
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wash_e_flow
+  rotate: false
+  xy: 2, 2
+  size: 490, 32
+  orig: 512, 32
+  offset: 0, 0
+  index: -1

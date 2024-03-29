@@ -1,0 +1,132 @@
+
+VikhuanXanh.png
+size: 3848,3135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 246, 243
+  orig: 246, 243
+  offset: 0, 0
+  index: -1
+Bong
+  rotate: false
+  xy: 250, 215
+  size: 144, 30
+  orig: 144, 30
+  offset: 0, 0
+  index: -1
+Chanphai
+  rotate: false
+  xy: 250, 35
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+Chantrai
+  rotate: false
+  xy: 330, 144
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00001
+  rotate: false
+  xy: 2, 2413
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00002
+  rotate: false
+  xy: 2, 1691
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00003
+  rotate: false
+  xy: 1284, 2413
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00004
+  rotate: false
+  xy: 2, 969
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00005
+  rotate: false
+  xy: 1284, 1691
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00006
+  rotate: false
+  xy: 2566, 247
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00001
+  rotate: false
+  xy: 2566, 2413
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00002
+  rotate: false
+  xy: 2, 247
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00003
+  rotate: false
+  xy: 1284, 969
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00004
+  rotate: false
+  xy: 2566, 1691
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00005
+  rotate: false
+  xy: 1284, 247
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00006
+  rotate: false
+  xy: 2566, 969
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Tayphai
+  rotate: false
+  xy: 294, 107
+  size: 34, 106
+  orig: 34, 106
+  offset: 0, 0
+  index: -1
+Taytrai
+  rotate: false
+  xy: 250, 107
+  size: 42, 106
+  orig: 42, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+Police_Light.png
+size: 2006,1079
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 1838, 559
+  size: 518, 166
+  orig: 520, 168
+  offset: 1, 1
+  index: -1
+02
+  rotate: false
+  xy: 932, 171
+  size: 349, 167
+  orig: 352, 169
+  offset: 1, 1
+  index: -1
+03
+  rotate: true
+  xy: 1654, 601
+  size: 107, 168
+  orig: 109, 170
+  offset: 1, 1
+  index: -1
+04
+  rotate: false
+  xy: 932, 2
+  size: 349, 167
+  orig: 352, 169
+  offset: 2, 1
+  index: -1
+05
+  rotate: false
+  xy: 1283, 220
+  size: 513, 166
+  orig: 515, 168
+  offset: 1, 1
+  index: -1
+06
+  rotate: false
+  xy: 1283, 51
+  size: 350, 167
+  orig: 352, 169
+  offset: 1, 1
+  index: -1
+07
+  rotate: false
+  xy: 1635, 50
+  size: 107, 168
+  orig: 109, 170
+  offset: 1, 1
+  index: -1
+08
+  rotate: false
+  xy: 1654, 390
+  size: 350, 167
+  orig: 352, 169
+  offset: 1, 1
+  index: -1
+Glow/01_00000
+  rotate: false
+  xy: 2, 726
+  size: 724, 351
+  orig: 978, 537
+  offset: 127, 99
+  index: -1
+Glow/01_00001
+  rotate: false
+  xy: 728, 710
+  size: 553, 367
+  orig: 978, 537
+  offset: 210, 89
+  index: -1
+Glow/01_00002
+  rotate: true
+  xy: 1279, 388
+  size: 320, 373
+  orig: 978, 537
+  offset: 330, 82
+  index: -1
+Glow/01_00003
+  rotate: false
+  xy: 1283, 710
+  size: 553, 367
+  orig: 978, 537
+  offset: 215, 89
+  index: -1
+Glow/01_00004
+  rotate: false
+  xy: 2, 373
+  size: 720, 351
+  orig: 978, 537
+  offset: 129, 99
+  index: -1
+Glow/01_00005
+  rotate: false
+  xy: 2, 3
+  size: 553, 368
+  orig: 978, 537
+  offset: 210, 89
+  index: -1
+Glow/01_00006
+  rotate: true
+  xy: 557, 18
+  size: 320, 373
+  orig: 978, 537
+  offset: 330, 82
+  index: -1
+Glow/01_00007_00007
+  rotate: false
+  xy: 724, 340
+  size: 553, 368
+  orig: 978, 537
+  offset: 215, 89
+  index: -1

@@ -1,0 +1,41 @@
+
+Scan.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+may quet van tay
+  rotate: false
+  xy: 0, 171
+  size: 580, 762
+  orig: 590, 882
+  offset: 5, 5
+  index: -1
+may quet van tay ben trong
+  rotate: false
+  xy: 582, 384
+  size: 426, 549
+  orig: 426, 549
+  offset: 0, 0
+  index: -1
+thanh xanh la
+  rotate: false
+  xy: 0, 107
+  size: 426, 62
+  orig: 426, 62
+  offset: 0, 0
+  index: -1
+van tay dung
+  rotate: false
+  xy: 1010, 543
+  size: 267, 390
+  orig: 268, 392
+  offset: 0, 1
+  index: -1
+van tay mo
+  rotate: true
+  xy: 582, 0
+  size: 382, 559
+  orig: 384, 560
+  offset: 0, 1
+  index: -1

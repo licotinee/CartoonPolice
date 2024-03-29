@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Nancy_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 0bd524b51faf7e4428ccf7926676db3d, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 8ace470a548696a43bb644067ffdf2e1, type: 2}
+  - {fileID: 2100000, guid: e7e2bf0f86364bb419adf00c21d10826, type: 2}
+  - {fileID: 2100000, guid: 4365f988ce4a1b04fbaff4911ec40baa, type: 2}
+  - {fileID: 2100000, guid: 732a87546bff495498b7a97ab502058a, type: 2}
+  - {fileID: 2100000, guid: 3430fe6b5f260724db5d4d04a5ab5140, type: 2}
+  - {fileID: 2100000, guid: 9cd0700c6a8b39a4ebc5766d6327698a, type: 2}
+  - {fileID: 2100000, guid: f2faaeb976fe2e14d8b1a6de539ff956, type: 2}
+  - {fileID: 2100000, guid: b1f2aac36a988c5409865ff510c756c7, type: 2}
+  - {fileID: 2100000, guid: ffe4bf177ea994b4cb55f328fcc02084, type: 2}
+  - {fileID: 2100000, guid: ef2a561db12539843a5144f9e1b301e6, type: 2}
+  - {fileID: 2100000, guid: 5e80469a58654244db0aee9037d540df, type: 2}
+  - {fileID: 2100000, guid: 0b4db919b6d92234bbc53c9dd91ce649, type: 2}
