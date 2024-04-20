@@ -1,0 +1,548 @@
+
+Nancy.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 194, 13
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Matvui02/Layer 1
+  rotate: true
+  xy: 0, 0
+  size: 178, 192
+  orig: 178, 192
+  offset: 0, 0
+  index: -1
+Matvui02/Layer 2
+  rotate: false
+  xy: 702, 36
+  size: 177, 142
+  orig: 177, 142
+  offset: 0, 0
+  index: -1
+Matvui02/Layer 3
+  rotate: true
+  xy: 1682, 1348
+  size: 177, 92
+  orig: 177, 92
+  offset: 0, 0
+  index: -1
+Matvui02/Layer 4
+  rotate: true
+  xy: 881, 1
+  size: 177, 71
+  orig: 177, 71
+  offset: 0, 0
+  index: -1
+Mieng_Special/mieng_special_00013
+  rotate: false
+  xy: 0, 413
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Mieng_Special/mieng_special_00014
+  rotate: false
+  xy: 514, 501
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Mieng_Special/mieng_special_00015
+  rotate: false
+  xy: 1218, 501
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Mieng_Special/mieng_special_00016
+  rotate: false
+  xy: 1404, 1527
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Mieng_ho_00001
+  rotate: false
+  xy: 378, 1015
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+Sua chuoi 1
+  rotate: true
+  xy: 1404, 1385
+  size: 140, 156
+  orig: 140, 156
+  offset: 0, 0
+  index: -1
+ban chan_Phai
+  rotate: true
+  xy: 194, 55
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+ban chan_Trai
+  rotate: true
+  xy: 194, 117
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 180
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 514, 428
+  size: 512, 71
+  orig: 512, 71
+  offset: 0, 0
+  index: -1
+but phep
+  rotate: false
+  xy: 0, 927
+  size: 376, 1112
+  orig: 376, 1112
+  offset: 0, 0
+  index: -1
+chan_Phai
+  rotate: true
+  xy: 661, 2
+  size: 32, 93
+  orig: 32, 93
+  offset: 0, 0
+  index: -1
+chan_Trai
+  rotate: true
+  xy: 756, 2
+  size: 32, 92
+  orig: 32, 92
+  offset: 0, 0
+  index: -1
+chuMieng_00001
+  rotate: false
+  xy: 500, 48
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 565, 7
+  size: 94, 39
+  orig: 94, 39
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1028, 177
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+matbuon/matbuon_00001
+  rotate: false
+  xy: 233, 178
+  size: 216, 233
+  orig: 216, 233
+  offset: 0, 0
+  index: -1
+matbuon/matbuon_00002
+  rotate: false
+  xy: 230, 7
+  size: 213, 169
+  orig: 213, 169
+  offset: 0, 0
+  index: -1
+matbuon/matbuon_00003
+  rotate: true
+  xy: 1562, 1315
+  size: 210, 118
+  orig: 210, 118
+  offset: 0, 0
+  index: -1
+matbuon/matbuon_00004
+  rotate: true
+  xy: 1404, 1175
+  size: 208, 108
+  orig: 208, 108
+  offset: 0, 0
+  index: -1
+meu
+  rotate: true
+  xy: 451, 24
+  size: 241, 47
+  orig: 241, 47
+  offset: 0, 0
+  index: -1
+mui
+  rotate: false
+  xy: 378, 934
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+ner
+  rotate: false
+  xy: 1776, 1456
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+ong hut
+  rotate: false
+  xy: 1028, 449
+  size: 188, 564
+  orig: 188, 564
+  offset: 0, 0
+  index: -1
+ong no
+  rotate: true
+  xy: 514, 250
+  size: 176, 508
+  orig: 176, 508
+  offset: 0, 0
+  index: -1
+tai_phai_truoc
+  rotate: true
+  xy: 451, 345
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+tai_traI_truoc
+  rotate: false
+  xy: 500, 6
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+taitrai_sau
+  rotate: true
+  xy: 451, 267
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 1776, 1388
+  size: 102, 66
+  orig: 102, 66
+  offset: 0, 0
+  index: -1
+tay 2
+  rotate: false
+  xy: 1682, 1279
+  size: 107, 67
+  orig: 107, 67
+  offset: 0, 0
+  index: -1
+traiphai_sau
+  rotate: true
+  xy: 961, 176
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 702, 180
+  size: 257, 68
+  orig: 257, 68
+  offset: 0, 0
+  index: -1
+
+Nancy2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mieng_Special/mieng_special_00017
+  rotate: false
+  xy: 0, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Mieng_Special/mieng_special_00018
+  rotate: false
+  xy: 1026, 1028
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Mieng_Special/mieng_special_00019
+  rotate: false
+  xy: 514, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Mieng_Special/mieng_special_00020
+  rotate: false
+  xy: 1028, 514
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Mieng_Special/mieng_special_00021
+  rotate: false
+  xy: 1028, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+nuocmat/nuocmat_00001
+  rotate: false
+  xy: 0, 516
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+Nancy3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mieng_Special/mieng_special_00022
+  rotate: false
+  xy: 0, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/Mom_1/Mom_00001
+  rotate: false
+  xy: 1026, 1028
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/Mom_1/Mom_00002
+  rotate: false
+  xy: 514, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/Mom_1/Mom_00003
+  rotate: false
+  xy: 1028, 514
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/Mom_1/Mom_00004
+  rotate: false
+  xy: 1028, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+nuocmat/nuocmat_00002
+  rotate: false
+  xy: 0, 516
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+Nancy4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MomPando/Mom_1/Mom_00005
+  rotate: false
+  xy: 0, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/miengbuon/miengbuon_00001
+  rotate: false
+  xy: 1026, 1028
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/miengbuon/miengbuon_00002
+  rotate: false
+  xy: 514, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/miengbuon/miengbuon_00003
+  rotate: false
+  xy: 1028, 514
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/miengbuon/miengbuon_00004
+  rotate: false
+  xy: 1028, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+nuocmat/nuocmat_00003
+  rotate: false
+  xy: 0, 516
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+Nancy5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MomPando/miengbuon/miengbuon_00005
+  rotate: false
+  xy: 0, 514
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/miengbuon/miengbuon_00006
+  rotate: false
+  xy: 514, 514
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/miengchuyenquabuon/miengchuyenquabuon_00001
+  rotate: false
+  xy: 1028, 514
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/miengchuyenquabuon/miengchuyenquabuon_00002
+  rotate: false
+  xy: 0, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/miengchuyenquabuon/miengchuyenquabuon_00003
+  rotate: false
+  xy: 514, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+MomPando/miengchuyenquabuon/miengchuyenquabuon_00004
+  rotate: false
+  xy: 1028, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+Nancy6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuocmat/nuocmat_00004
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+Nancy7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuocmat/nuocmat_00005
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+Nancy8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuocmat/nuocmat_00006
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+Nancy9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuocmat/nuocmat_00007
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+Nancy10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuocmat/nuocmat_00008
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+Nancy11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuocmat/nuocmat_00009
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+Nancy12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuocmat/nuocmat_00010
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1

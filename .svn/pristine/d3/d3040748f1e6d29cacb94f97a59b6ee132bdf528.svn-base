@@ -1,0 +1,279 @@
+
+Momy_Wolf.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Banchan_Phai
+  rotate: false
+  xy: 461, 0
+  size: 147, 82
+  orig: 149, 84
+  offset: 1, 1
+  index: -1
+EYE/EYE__00002
+  rotate: false
+  xy: 1805, 125
+  size: 118, 143
+  orig: 250, 250
+  offset: 61, 68
+  index: -1
+EYE/EYE__00003
+  rotate: false
+  xy: 1921, 276
+  size: 118, 117
+  orig: 250, 250
+  offset: 61, 81
+  index: -1
+EYE/EYE__00004
+  rotate: true
+  xy: 1498, 91
+  size: 118, 86
+  orig: 250, 250
+  offset: 61, 97
+  index: -1
+EYE/EYE__00005
+  rotate: false
+  xy: 1845, 715
+  size: 117, 70
+  orig: 250, 250
+  offset: 62, 100
+  index: -1
+EYE/EYE__00006
+  rotate: true
+  xy: 1715, 17
+  size: 118, 67
+  orig: 250, 250
+  offset: 61, 98
+  index: -1
+EYE/EYE_v_00001
+  rotate: false
+  xy: 1586, 8
+  size: 127, 161
+  orig: 250, 250
+  offset: 57, 58
+  index: -1
+EYE/EYE_v_00002
+  rotate: false
+  xy: 1921, 395
+  size: 117, 137
+  orig: 250, 250
+  offset: 62, 64
+  index: -1
+EYE/EYE_v_00003
+  rotate: true
+  xy: 1925, 157
+  size: 117, 114
+  orig: 250, 250
+  offset: 62, 70
+  index: -1
+EYE/EYE_v_00004
+  rotate: true
+  xy: 1430, 20
+  size: 116, 62
+  orig: 250, 250
+  offset: 63, 84
+  index: -1
+EYE/EYE_v_00005
+  rotate: false
+  xy: 1728, 709
+  size: 115, 76
+  orig: 250, 250
+  offset: 64, 70
+  index: -1
+EYE/EYE_v_00006
+  rotate: false
+  xy: 610, 2
+  size: 115, 80
+  orig: 250, 250
+  offset: 64, 68
+  index: -1
+Mom_A/Mom_Buon_00002
+  rotate: true
+  xy: 1074, 55
+  size: 260, 60
+  orig: 500, 500
+  offset: 110, 191
+  index: -1
+Mom_A/Mom_Buon_00003
+  rotate: true
+  xy: 1746, 137
+  size: 280, 57
+  orig: 500, 500
+  offset: 100, 181
+  index: -1
+Mom_A/Mom_Buon_00004
+  rotate: false
+  xy: 1728, 787
+  size: 302, 93
+  orig: 500, 500
+  offset: 89, 155
+  index: -1
+Mom_A/Mom_Buon_00005
+  rotate: true
+  xy: 325, 7
+  size: 321, 134
+  orig: 500, 500
+  offset: 79, 129
+  index: -1
+Mom_A/Mom_Buon_00006
+  rotate: false
+  xy: 741, 164
+  size: 331, 151
+  orig: 500, 500
+  offset: 74, 118
+  index: -1
+Mom_A/Mom_ha_00001
+  rotate: true
+  xy: 461, 84
+  size: 244, 71
+  orig: 500, 500
+  offset: 118, 197
+  index: -1
+Mom_A/Mom_ha_00002
+  rotate: true
+  xy: 1832, 270
+  size: 258, 87
+  orig: 500, 500
+  offset: 111, 189
+  index: -1
+Mom_A/Mom_ha_00003
+  rotate: false
+  xy: 1551, 419
+  size: 279, 109
+  orig: 500, 500
+  offset: 100, 175
+  index: -1
+Mom_A/Mom_ha_00004
+  rotate: false
+  xy: 1728, 882
+  size: 301, 142
+  orig: 500, 500
+  offset: 89, 148
+  index: -1
+Mom_A/Mom_ha_00005
+  rotate: true
+  xy: 1551, 707
+  size: 317, 175
+  orig: 500, 500
+  offset: 80, 120
+  index: -1
+Mom_A/Mom_ha_00006
+  rotate: true
+  xy: 551, 84
+  size: 323, 188
+  orig: 500, 500
+  offset: 77, 109
+  index: -1
+Mom_A/Mom_nghienrang_00005
+  rotate: false
+  xy: 0, 4
+  size: 321, 134
+  orig: 500, 500
+  offset: 79, 129
+  index: -1
+Mom_A/Mom_nghienrang_00006
+  rotate: false
+  xy: 741, 11
+  size: 331, 151
+  orig: 500, 500
+  offset: 74, 118
+  index: -1
+Mom_A/Mom_nherang_00005
+  rotate: false
+  xy: 1551, 530
+  size: 317, 175
+  orig: 500, 500
+  offset: 80, 120
+  index: -1
+Mom_A/Mom_nherang_00006
+  rotate: false
+  xy: 0, 140
+  size: 323, 188
+  orig: 500, 500
+  offset: 77, 109
+  index: -1
+body
+  rotate: false
+  xy: 772, 499
+  size: 534, 525
+  orig: 534, 525
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 0, 330
+  size: 549, 77
+  orig: 551, 79
+  offset: 1, 1
+  index: -1
+chan_Phai
+  rotate: true
+  xy: 1285, 138
+  size: 71, 211
+  orig: 71, 211
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 772, 317
+  size: 366, 180
+  orig: 366, 180
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 409
+  size: 770, 615
+  orig: 770, 615
+  offset: 0, 0
+  index: -1
+taiphai_sau
+  rotate: true
+  xy: 1299, 211
+  size: 203, 297
+  orig: 203, 297
+  offset: 0, 0
+  index: -1
+taiphai_truoc
+  rotate: false
+  xy: 1140, 252
+  size: 157, 245
+  orig: 157, 245
+  offset: 0, 0
+  index: -1
+taitrai_sau
+  rotate: false
+  xy: 1870, 534
+  size: 148, 179
+  orig: 148, 179
+  offset: 0, 0
+  index: -1
+taitrai_truoc
+  rotate: true
+  xy: 1285, 13
+  size: 123, 143
+  orig: 123, 143
+  offset: 0, 0
+  index: -1
+tay
+  rotate: true
+  xy: 1598, 171
+  size: 246, 146
+  orig: 246, 146
+  offset: 0, 0
+  index: -1
+tay 2
+  rotate: true
+  xy: 1136, 4
+  size: 246, 147
+  orig: 246, 147
+  offset: 0, 0
+  index: -1
+vay
+  rotate: true
+  xy: 1308, 416
+  size: 608, 241
+  orig: 608, 241
+  offset: 0, 0
+  index: -1

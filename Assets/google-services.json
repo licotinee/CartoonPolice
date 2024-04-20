@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692913764534",
+    "project_id": "wolfoopolice",
+    "storage_bucket": "wolfoopolice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692913764534:android:872a03e1afb05ab6844e17",
+        "android_client_info": {
+          "package_name": "wolfoo.policegame.policemen.policecar.kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiUVSKAW7TfgGmdHNw03QJOENmPO6S9eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

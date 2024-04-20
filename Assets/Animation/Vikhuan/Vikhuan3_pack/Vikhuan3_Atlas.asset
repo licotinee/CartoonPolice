@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Vikhuan3_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: bdde3ee8b489cf549a454202443fe0ef, type: 3}
+  materials:
+  - {fileID: 2100000, guid: ff7e9097948020944a0d2ec52b09137c, type: 2}
+  - {fileID: 2100000, guid: 221dcec13b915524492dc3d9a15399aa, type: 2}
+  - {fileID: 2100000, guid: b61342eed01aee545b94d94af75870e9, type: 2}

@@ -1,0 +1,188 @@
+
+ChatBox.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lucy/body
+  rotate: true
+  xy: 890, 479
+  size: 665, 668
+  orig: 667, 670
+  offset: 1, 1
+  index: -1
+Lucy/head
+  rotate: false
+  xy: 0, 0
+  size: 884, 784
+  orig: 884, 784
+  offset: 0, 0
+  index: -1
+Lucy/matbuon/matbuon_00001
+  rotate: true
+  xy: 877, 1196
+  size: 216, 233
+  orig: 216, 233
+  offset: 0, 0
+  index: -1
+Lucy/matbuon/matbuon_00002
+  rotate: false
+  xy: 0, 1304
+  size: 213, 169
+  orig: 213, 169
+  offset: 0, 0
+  index: -1
+Lucy/matbuon/matbuon_00003
+  rotate: false
+  xy: 1351, 1404
+  size: 210, 118
+  orig: 210, 118
+  offset: 0, 0
+  index: -1
+Lucy/matbuon/matbuon_00004
+  rotate: false
+  xy: 929, 1414
+  size: 208, 108
+  orig: 208, 108
+  offset: 0, 0
+  index: -1
+Lucy/tai_phai_truoc
+  rotate: false
+  xy: 1563, 1389
+  size: 152, 133
+  orig: 152, 133
+  offset: 0, 0
+  index: -1
+Lucy/tai_traI_truoc
+  rotate: true
+  xy: 405, 1245
+  size: 196, 235
+  orig: 196, 235
+  offset: 0, 0
+  index: -1
+Lucy/taitrai_sau
+  rotate: true
+  xy: 1345, 1146
+  size: 241, 271
+  orig: 241, 271
+  offset: 0, 0
+  index: -1
+Lucy/traiphai_sau
+  rotate: false
+  xy: 215, 1290
+  size: 188, 180
+  orig: 188, 180
+  offset: 0, 0
+  index: -1
+Nancy/body
+  rotate: false
+  xy: 1112, 1171
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+Nancy/head
+  rotate: false
+  xy: 1618, 1081
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Nancy/matbuon/matbuon_00001
+  rotate: true
+  xy: 642, 1196
+  size: 216, 233
+  orig: 216, 233
+  offset: 0, 0
+  index: -1
+Nancy/matbuon/matbuon_00002
+  rotate: false
+  xy: 1717, 1353
+  size: 213, 169
+  orig: 213, 169
+  offset: 0, 0
+  index: -1
+Nancy/matbuon/matbuon_00003
+  rotate: false
+  xy: 1139, 1404
+  size: 210, 118
+  orig: 210, 118
+  offset: 0, 0
+  index: -1
+Nancy/matbuon/matbuon_00004
+  rotate: false
+  xy: 719, 1414
+  size: 208, 108
+  orig: 208, 108
+  offset: 0, 0
+  index: -1
+Nancy/meu
+  rotate: false
+  xy: 139, 1475
+  size: 241, 47
+  orig: 241, 47
+  offset: 0, 0
+  index: -1
+Lucy/meu
+  rotate: false
+  xy: 139, 1475
+  size: 241, 47
+  orig: 241, 47
+  offset: 0, 0
+  index: -1
+Nancy/mui
+  rotate: false
+  xy: 618, 1443
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+Nancy/tai_phai_truoc
+  rotate: false
+  xy: 460, 1471
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+Nancy/tai_traI_truoc
+  rotate: false
+  xy: 0, 1482
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+Nancy/taitrai_sau
+  rotate: false
+  xy: 382, 1472
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+Nancy/traiphai_sau
+  rotate: false
+  xy: 65, 1478
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+boder
+  rotate: false
+  xy: 0, 835
+  size: 443, 408
+  orig: 444, 408
+  offset: 1, 0
+  index: -1
+bong chat
+  rotate: false
+  xy: 445, 786
+  size: 443, 408
+  orig: 448, 408
+  offset: 2, 0
+  index: -1
+giot_mohoi - Copy
+  rotate: true
+  xy: 528, 1466
+  size: 56, 88
+  orig: 56, 88
+  offset: 0, 0
+  index: -1

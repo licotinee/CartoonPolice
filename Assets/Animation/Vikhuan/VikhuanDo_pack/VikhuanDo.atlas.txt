@@ -1,0 +1,194 @@
+
+VikhuanDo.png
+size: 3848,3612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOdy
+  rotate: true
+  xy: 702, 3323
+  size: 287, 338
+  orig: 287, 338
+  offset: 0, 0
+  index: -1
+Bong
+  rotate: false
+  xy: 2, 3581
+  size: 162, 29
+  orig: 162, 29
+  offset: 0, 0
+  index: -1
+Chanphai
+  rotate: true
+  xy: 614, 3561
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+Chantrai
+  rotate: true
+  xy: 530, 3562
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00001
+  rotate: false
+  xy: 1042, 2890
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00002
+  rotate: false
+  xy: 2324, 2890
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00003
+  rotate: false
+  xy: 2, 2168
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00004
+  rotate: false
+  xy: 1284, 2168
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00005
+  rotate: false
+  xy: 2566, 2168
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Cuoi/cuoi_00006
+  rotate: false
+  xy: 2, 1446
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Longmayphai
+  rotate: false
+  xy: 166, 3579
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+Longmaytrai
+  rotate: false
+  xy: 220, 3579
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+Mat/mat_00001
+  rotate: false
+  xy: 1284, 1446
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00002
+  rotate: false
+  xy: 2566, 1446
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00003
+  rotate: false
+  xy: 2, 724
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00004
+  rotate: false
+  xy: 1284, 724
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00005
+  rotate: false
+  xy: 2566, 724
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mat/mat_00006
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+MomMeu/Mommeu_00001
+  rotate: false
+  xy: 1284, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+MomMeu/Mommeu_00002
+  rotate: false
+  xy: 2566, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Tayphai
+  rotate: true
+  xy: 273, 3568
+  size: 42, 128
+  orig: 42, 128
+  offset: 0, 0
+  index: -1
+Taytrai
+  rotate: true
+  xy: 403, 3565
+  size: 45, 125
+  orig: 45, 125
+  offset: 0, 0
+  index: -1
+
+VikhuanDo2.png
+size: 2890,1284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MomMeu/Mommeu_00003
+  rotate: true
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+MomMeu/Mommeu_00004
+  rotate: true
+  xy: 724, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+MomMeu/Mommeu_00005
+  rotate: true
+  xy: 1446, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+MomMeu/Mommeu_00006
+  rotate: true
+  xy: 2168, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
